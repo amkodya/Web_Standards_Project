@@ -1,0 +1,23 @@
+/* PROJECT CSS*/
+
+body {
+	background-color: #dcf9e9;
+	font-family: "Helvetica", sans-serif;
+
+}
+p {
+	color: #000;
+	font-size: 12pt;
+}
+h1 {
+	font-size: 30pt;
+	color: #31577a;
+}
+h2 {
+	font-size: 22pt;
+	color: #3ea1cc;
+}
+.ashley {
+	height: 300px;
+	width: 200px;
+}
